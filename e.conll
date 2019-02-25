@@ -23,10 +23,12 @@ a	O
 route	O
 map	O
 of	O
-@MAS	B-ORG
+@	B-ORG
+MAS	B-ORG
 #MH17,	O
 which	O
-@flightaware	B-ORG
+@	B-ORG
+flightaware	B-ORG
 lost	O
 track	O
 of	O
@@ -210,14 +212,16 @@ of	O
 from	O
 #Amsterdam	B-LOC
 http://t.co/4nYqODD8HX	O
-@MAS	B-ORG
+@	B-ORG
+MAS	B-ORG
 http://t.co/GHhH8k40Xe	O
 
 "	O
 @W7VOA	O
 :	O
 MT	O
-@myroslavapetsa	B-PER
+@	B-PER
+myroslavapetsa	B-PER
 #Ukraine	B-ORG
 Air	I-ORG
 Traffic	I-ORG
@@ -234,7 +238,8 @@ border	O
 #MH17"	O
 
 .	O
-@MAS	B-ORG
+@	B-ORG
+MAS	B-ORG
 says	O
 it	O
 "	O
@@ -243,7 +248,8 @@ contact	O
 "	O
 with	O
 #MH17.	O
-@BloombergTV	B-ORG
+@	B-ORG
+BloombergTV	B-ORG
 reports	O
 the	O
 plane	O
@@ -350,7 +356,8 @@ http://t.co/dvyLSqsR2E	O
 http://t.co/Umetvr9TYS	O
 
 MT	O
-@hdevreij	B-PER
+@	B-PER
+hdevreij	B-PER
 :	O
 Airliners	O
 now	O
@@ -515,10 +522,12 @@ touch	O
 with	O
 MOT	B-ORG
 “	O
-@AircrewBuzz	B-PER
+@	B-PER
+AircrewBuzz	B-PER
 :	O
 RT	O
-@FHavg	B-PER
+@	B-PER
+FHavg	B-PER
 :	O
 Msia	B-LOC
 's	O
@@ -627,8 +636,6 @@ fighting	O
 between	O
 russia	B-LOC
 &	O
-amp	O
-;	O
 ukraine	B-LOC
 #mh17	O
 
@@ -768,7 +775,8 @@ altitude	O
 .	O
 
 Full	O
-@poroshenko	B-PER
+@	B-PER
+poroshenko	B-PER
 's	O
 stmt	O
 on	O
@@ -1277,7 +1285,8 @@ n't	O
 shot	O
 down	O
 the	O
-@MAS	B-ORG
+@	B-ORG
+MAS	B-ORG
 #MH17	O
 aircraft	O
 .	O
@@ -1310,7 +1319,8 @@ no	O
 words	O
 .	O
 "	O
-@BhasChat	B-ORG
+@	B-ORG
+BhasChat	B-ORG
 :	O
 How	O
 is	O
@@ -1372,7 +1382,8 @@ http://t.co/XnhQs6O5bC	O
 JUST	O
 IN	O
 :	O
-@lufthansa	B-ORG
+@	B-ORG
+lufthansa	B-ORG
 is	O
 avoiding	O
 East	B-LOC
@@ -1429,7 +1440,8 @@ flight	O
 Watch	O
 our	O
 live	O
-@CBSNews	B-ORG
+@	B-ORG
+CBSNews	B-ORG
 Special	O
 Report	O
 :	O
@@ -1560,8 +1572,6 @@ carriers	O
 between	O
 Asia	B-LOC
 &	O
-amp	O
-;	O
 northern	B-LOC
 Europe	I-LOC
 .	O
@@ -1597,8 +1607,6 @@ the	O
 #MH17	O
 flight	O
 &	O
-amp	O
-;	O
 has	O
 been	O
 confirmed	O
@@ -1702,11 +1710,11 @@ shot	O
 down	O
 #MH17	O
 via	O
-@MorbidYoung	B-PER
+@	B-PER
+MorbidYoung	B-PER
 &	O
-amp	O
-;	O
-@motech99	B-PER
+@	B-PER
+motech99	B-PER
 http://t.co/bMDJDezaVc	O
 
 U	B-LOC
@@ -1849,8 +1857,6 @@ conference	O
 by	O
 PM	O
 &	O
-amp	O
-;	O
 MAS	O
 at	O
 4am	O
@@ -1898,7 +1904,8 @@ Dominique	B-PER
 Faget—	I-PER
 AFP	B-ORG
 /	O
-@GettyImages	B-ORG
+@	B-ORG
+GettyImages	B-ORG
 )	O
 http://t.co/7vg3ALyFn7	O
 http://t.co/BS0g5x0byC	O
@@ -2455,8 +2462,6 @@ at	O
 000ft	O
 "	O
 &	O
-amp	O
-;	O
 "	O
 Putin	B-PER
 's	O
@@ -2609,8 +2614,10 @@ in	O
 #MH17	O
 http://t.co/HoMsaz5D2I	O
 "	O
-@MoscowTimes	B-ORG
-@EvaHartog	B-PER
+@	B-ORG
+MoscowTimes	B-ORG
+@	B-PER
+EvaHartog	B-PER
 
 Russian	O
 cmdr	O
@@ -2705,7 +2712,8 @@ crew	O
 
 BREAKING	O
 :	O
-@MAS	B-ORG
+@	B-ORG
+MAS	B-ORG
 revises	O
 up	O
 #MH17	O
@@ -2760,13 +2768,12 @@ MH	O
 #MH17	O
 
 RT	O
-@MichelSidibe	B-PER
+@	B-PER
+MichelSidibe	B-PER
 :	O
 My	O
 thoughts	O
 &	O
-amp	O
-;	O
 prayers	O
 to	O
 families	O
@@ -2813,8 +2820,6 @@ candles	O
 ,	O
 flowers	O
 &	O
-amp	O
-;	O
 toys	O
 in	O
 front	O
@@ -2842,11 +2847,10 @@ family	O
 of	O
 crew	O
 &	O
-amp	O
-;	O
 passengers	O
 of	O
-@MAS	B-ORG
+@	B-ORG
+MAS	B-ORG
 Flight	O
 #MH17	O
 which	O
@@ -2935,8 +2939,10 @@ by	O
 nationality	O
 -	O
 via	O
-@theage	B-ORG
-@smh	B-ORG
+@	B-ORG
+theage	B-ORG
+@	B-ORG
+smh	B-ORG
 #MH17	O
 http://t.co/MjswmQhwI8	O
 http://t.co/1bP78hLPBH	O
@@ -3066,7 +3072,8 @@ discussing	O
 http://t.co/sR2jw9JSjf	O
 
 .	O
-@SingaporeAir	B-ORG
+@	B-ORG
+SingaporeAir	B-ORG
 flight	O
 SQ	O
 351	O
@@ -3241,7 +3248,8 @@ Analysis	I-ORG
 h	O
 /	O
 t	O
-@LMartinezABC	B-PER
+@	B-PER
+LMartinezABC	B-PER
 )	O
 http://t.co/ehvMGy4UIE	O
 
@@ -3498,8 +3506,6 @@ that	O
 is	O
 neutral	O
 &	O
-amp	O
-;	O
 not	O
 blaming	O
 anyone	O
@@ -3754,8 +3760,6 @@ on	O
 YouTube	B-ORG
 Clips	O
 &	O
-amp	O
-;	O
 Social	O
 Media	O
 Posts	O
@@ -3790,7 +3794,8 @@ Leader	O
 of	O
 the	O
 Opposition	O
-@anwaribrahim	B-PER
+@	B-PER
+anwaribrahim	B-PER
 convey	O
 clear	O
 understanding	O
@@ -3798,7 +3803,8 @@ and	O
 support	O
 of	O
 PM	O
-@NajibRazak	B-PER
+@	B-PER
+NajibRazak	B-PER
 's	O
 handling	O
 of	O
@@ -3839,7 +3845,8 @@ Jadi	O
 to	O
 Prime	O
 Minister	O
-@NajibRazak	B-PER
+@	B-PER
+NajibRazak	B-PER
 .	O
 Thank	O
 u	O
@@ -4026,11 +4033,9 @@ King	O
 ,	O
 Queen	O
 &	O
-amp	O
-;	O
 PM	O
-Mark	O
-Rutte	O
+Mark	B-PER
+Rutte	I-PER
 wait	O
 to	O
 receive	O
